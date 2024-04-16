@@ -1,6 +1,11 @@
-### Hi there 👋
+###
+![](https://komarev.com/ghpvc/?username=vutrn&style=for-the-badge&label=views)
 
 <!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vutrn)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vutrn)](https://github.com/anuraghazra/github-readme-stats)
+
 **vutrn/vutrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
