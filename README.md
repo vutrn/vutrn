@@ -1,5 +1,7 @@
 ###
-![](https://komarev.com/ghpvc/?username=vutrn&style=for-the-badge&label=views)
+<!-- 
+![](https://komarev.com/ghpvc/?username=vutrn&style=for-the-badge&label=views) 
+-->
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vutrn)](https://github.com/anuraghazra/github-readme-stats)
