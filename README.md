@@ -3,6 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=vutrn&style=for-the-badge&label=views) 
 -->
 
+[![](https://visitcount.itsvg.in/api?id=vutrn&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vutrn)](https://github.com/anuraghazra/github-readme-stats)
 
