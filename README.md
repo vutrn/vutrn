@@ -5,6 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=vutrn&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
+<p align="center"><img src="https://raw.githubusercontent.com/vutrn/vutrn/output/github-contribution-grid-snake.svg"></p>
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vutrn)](https://github.com/anuraghazra/github-readme-stats)
 
